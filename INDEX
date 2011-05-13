@@ -1,0 +1,15 @@
+BuildAgeTable           Builds a data.frame holding an age table
+BuildTreeObject         Builds a data.frame holding tree data
+ExportFile              Export an object into a csv text file
+ImportRW                Import a ring-width file
+IncrementPlot           Draws a 4-plot graph of increments
+JoinBranchesToStem      Joins stem-analyses of large branches to
+                        stem-analysis of main stem
+Lei301                  Ring widths and stem analyses of tree 1 of the
+                        Leindefelde 30 stand (Germany)
+Lei301Brw               Ring widths of large branch "B" of tree 1 of
+                        the Leindefelde 30 stand (Germany)
+Lei301rw                Ring widths of main stem of tree 1 of the
+                        Leindefelde 30 stand (Germany)
+PoolPlot                Draws a 4-plot graph of pools
+StemAnalysis            Performs stem-analysis
